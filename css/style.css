@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulish:wght@200;300;400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&display=swap");
+/* Smartphones */
+/* Tablet */
+/* Normal */
+/* Widescreen */
+/* Landscape */
+html,
+body {
+  font-family: "Mulish", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Libre Baskerville", serif;
+}
+
+.navbar-dark {
+  background: #193339 !important;
+}
+
+.bg-success {
+  background: #5e7074 !important;
+}
+
+.bg-light {
+  background: #d1d6d7 !important;
+}
+
+.box-2 ul {
+  float: left;
+  list-style: none;
+}
+.box-2 ul li {
+  float: left;
+  padding: 10px;
+  margin: 5px;
+}
+
+#article img {
+  height: 450px;
+}
+
+/*# sourceMappingURL=style.css.map */
